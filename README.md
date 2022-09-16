@@ -2,7 +2,7 @@
 
 <div>
     <div align="center">
-<img  src="https://readme-typing-svg.herokuapp.com?color=ab3f99&size=22&center=true&multiline=true&width=570&height=60&lines=Bem+Vindo+ao+Meu+Github+❤;+Eu+Sou+Kamilla+Alves+.;"/>
+<img  src="https://readme-typing-svg.herokuapp.com?color=ab3f99&size=22&center=true&multiline=true&width=570&height=60&lines=Bem+Vindo+ao+Meu+Github+❤;+Eu+Sou+Kamilla+Alves+;"/>
     </div>
 
 <div> 
