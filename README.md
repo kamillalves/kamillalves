@@ -1,4 +1,9 @@
-## Oiii!! Eu sou a Kamilla Alves ✨
+## 
+
+<div>
+    <div align="center">
+<img  src="https://readme-typing-svg.herokuapp.com?color=ab3f99&size=22&center=true&multiline=true&width=570&height=60&lines=Bem+Vindo+ao+Meu+Github+❤;+Eu+Sou+Kamilla+Alves+.;"/>
+    </div>
 
 <div> 
   <a href="https://www.linkedin.com/in/kamilla-a-950072160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
